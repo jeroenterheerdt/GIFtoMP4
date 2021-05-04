@@ -5,3 +5,5 @@ Requires moviepy (`pip install moviepy`) or just run `pip install -r requirement
 
 Usage:
 `python giftomp4.py [filepath1] [filepath...] [filepathN]`
+
+output MP4 will be created in same folder as the source GIF
